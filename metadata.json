@@ -1,0 +1,6 @@
+{
+  "name": "DepthX",
+  "description": "3D depth live wallpaper featuring layered parallax motion, sensor-based tilt, live lock screen clock behind subjects, particle effects, and AOD ambient mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DepthX</string>
+    <string name="wallpaper_description">Stunning 3D depth live wallpaper with multi-layer parallax, sensor tilt, live clock, and ambient AOD support.</string>
+    <string name="wallpaper_settings">DepthX Settings</string>
+</resources>
